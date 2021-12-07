@@ -8,6 +8,7 @@ Show Me the Code Python version.
 【注】Pull Request 请提交你个人的仓库 URL 链接地址。
 
 ### How to Add your solutions:
+new text
 
   * Fork this repo.
   * Create a folder named with your github name.
